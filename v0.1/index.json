@@ -1,0 +1,8 @@
+{
+    "version": "0.1",
+    "description": "Network of Trusted Networks - Event Schemas",
+  "schemas": {
+    "airwayBill": "https://schemas.ishare.eu/v0.1/awb.json"
+  }
+}
+  
