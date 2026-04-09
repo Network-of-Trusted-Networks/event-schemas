@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Identifier List Schema",
+  "title": "Identifier Changed Event Schema",
   "type": "object",
   "required": [
     "newIdentifiers"
